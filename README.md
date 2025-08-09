@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gnanvi Gedam
 
-🎓 **B.Tech CSE @ NIT Patna** | 💻 **Full-Stack & ML Enthusiast** | 🕹 Aspiring Game Developer  
+🎓 **B.Tech CSE @ NIT Patna** | 💻 **Full-Stack & ML Enthusiast** | 
 
 I love building projects that bridge **creativity** and **logic** — from sleek, real-time chat apps to AI-driven medical imaging tools. My journey so far has been about learning, experimenting, and delivering solutions that matter.
 
