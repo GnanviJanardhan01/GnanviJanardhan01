@@ -54,9 +54,7 @@ Lightweight, real-time chat app with one-on-one and group messaging using **Flas
 
 ## 🌐 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnanvi-gedam-371052317/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Janu01/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GnanviJanardhan01)  
 
 ---
-✨ _"Code is my canvas, logic my brush."_ ✨
 
